@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      Hello Chhinghor. Are you ok?
+      <h2 style="color: blue">Hello Chhinghor. Are you ok?</h2>
   </div>
 </template>
 
