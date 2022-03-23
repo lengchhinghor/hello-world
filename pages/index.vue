@@ -60,7 +60,7 @@ export default {
       this.loading = false;
     },
     calcAge() {
-      const age = 2021 - this.birthYear;
+      const age = 2022 - this.birthYear;
       this.age = age;
       this.birthYear = "";
     },
