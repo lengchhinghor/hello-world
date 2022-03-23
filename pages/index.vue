@@ -2,7 +2,7 @@
 <template>
     <div id="IndexPage">
         <button class='btn' @click='getUserAgeFeatureStatus'>
-            Calculate Your Age
+            Calculate Age
         </button>
 
         <p v-if='!userAgeFeature && !loading' class='text'>Sorry, This feature has been disabled by the Admin</p>
